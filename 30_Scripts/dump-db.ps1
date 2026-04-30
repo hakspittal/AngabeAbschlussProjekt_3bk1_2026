@@ -11,7 +11,7 @@ $timestamp = Get-Date -Format "yyyy-MM-dd-HH-mm-ss"
 
 
 # Output-Datei (im Git-Repo!)
-$output = "F:\_schule2026\_wids3bk_2\dump-$timestamp.sql"
+$output = "F:\_schule2026\_wids3bk_2\dump.sql"
 
 Write-Host "Starte Datenbank-Dump..."
 
